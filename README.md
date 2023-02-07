@@ -9,6 +9,11 @@ The Strategy pattern defines a family of algorithms, encapsulates each one, and 
 # Second Example 
 
 
+
+![image](https://user-images.githubusercontent.com/42523000/217203485-492c74c3-1521-4424-bc3b-109e3f357a26.png)
+
+
+
 1. Let’s Build a Number Store. In which User can perform two operations
 
 Insert a  Number
